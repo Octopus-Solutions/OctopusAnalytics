@@ -1,0 +1,12 @@
+name: radiant
+title: radiant
+username:
+account: octopus2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3627904
+bundleId: 4229167
+url: https://octopus2.shinyapps.io/radiant/
+when: 1613467903.62956
+asMultiple: FALSE
+asStatic: FALSE
